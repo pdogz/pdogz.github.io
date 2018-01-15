@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my page, hope you enjoy.
 
-You can use the [editor on GitHub](https://github.com/pdogz/pdogz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is pdogz, and this is where I will document my life. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Hello world markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Will need to edit this later.
 
 # Header 1
 ## Header 2
